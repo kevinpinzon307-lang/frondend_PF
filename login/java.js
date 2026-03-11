@@ -1,3 +1,5 @@
+const API_BASE = 'https://backend-pf-dzfa.onrender.com/api';
+
 // ===============================
 // INICIALIZACIÓN DEL SISTEMA
 // ===============================
