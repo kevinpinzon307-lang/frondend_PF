@@ -1,4 +1,4 @@
-const API_BASE = 'https://backend-pf-dzfa.onrender.com/api';
+const API_BASE = 'https://backend-pf-0tyf.onrender.com/api';
 
 // ===============================
 // INICIALIZACIÓN DEL SISTEMA
